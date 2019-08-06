@@ -1,0 +1,43 @@
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.blue.blue-1 {
+  color: aquamarine;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.parent .child-1 .child-2 {
+  color: red;
+}
+
+section h1 {
+  color: yellowgreen;
+}
+
+class-1.class-2.class-3 {
+  color: blue;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+* {
+  outline: 1px solid red;
+}
